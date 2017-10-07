@@ -1,0 +1,109 @@
+{
+  "Records": [
+    {
+      "cf": {
+        "config": {
+          "distributionId": "E2PJ3I76NZE77K"
+        },
+        "request": {
+          "clientIp": "54.240.196.185",
+          "headers": {
+            "accept-encoding": [
+              {
+                "key": "Accept-Encoding",
+                "value": "gzip"
+              }
+            ],
+            "cache-control": [
+              {
+                "key": "Cache-Control",
+                "value": "no-cache, max-age=0, cf-no-cache"
+              }
+            ],
+            "cloudfront-is-desktop-viewer": [
+              {
+                "key": "CloudFront-Is-Desktop-Viewer",
+                "value": "true"
+              }
+            ],
+            "cloudfront-is-mobile-viewer": [
+              {
+                "key": "CloudFront-Is-Mobile-Viewer",
+                "value": "false"
+              }
+            ],
+            "cloudfront-is-smarttv-viewer": [
+              {
+                "key": "CloudFront-Is-SmartTV-Viewer",
+                "value": "false"
+              }
+            ],
+            "cloudfront-is-tablet-viewer": [
+              {
+                "key": "CloudFront-Is-Tablet-Viewer",
+                "value": "false"
+              }
+            ],
+            "cloudfront-viewer-country": [
+              {
+                "key": "CloudFront-Viewer-Country",
+                "value": "US"
+              }
+            ],
+            "host": [
+              {
+                "key": "Host",
+                "value": "d170se51itnvn3.cloudfront.net:80"
+              }
+            ],
+            "upgrade-insecure-requests": [
+              {
+                "key": "Upgrade-Insecure-Requests",
+                "value": "1"
+              }
+            ],
+            "user-agent": [
+              {
+                "key": "User-Agent",
+                "value": "Amazon CloudFront"
+              }
+            ],
+            "via": [
+              {
+                "key": "Via",
+                "value": "1.1 e1fff2dee56e3b55796cc594a92413c0.cloudfront.net (CloudFront)"
+              }
+            ],
+            "x-clima-edge-debug": [
+              {
+                "key": "x-clima-edge-debug",
+                "value": "False"
+              }
+            ],
+            "x-forwarded-for": [
+              {
+                "key": "X-Forwarded-For",
+                "value": "54.240.196.185"
+              }
+            ],
+            "x-imforwards": [
+              {
+                "key": "X-IMForwards",
+                "value": "20"
+              }
+            ],
+            "cookie": [
+              {
+                "key": "Cookie",
+                "value": "x-clima-edge-authorization=3713+zOhexBqL3FSIX/ZERCKxnSbryiS8vzRg8vYfFbXRrtrNVy1mBviQG8n0qMzk2K+DRmwAeCXZJCVVoEyukMWRATOgnW6DLlVSXg1RM4A9uxnFPaPL3AdgfWd25AFT/n6vRbeqY59sDb0r96raG4Dx9KXcpnPN/zyW2gDLrEow3yB3aXe4+k2Ib24c+0hxsWo5o04wXdn1/R9n7BT3F0N9rR1CRabEoy68tASdjZ9eVEZq2hMBqLuH2Ozk4ZYKl6uxVro0ZxA"
+              }
+            ]
+          },
+          "method": "GET",
+          "querystring": "cities=Wonderland,Zion,Naboo",
+          "uri": "/api/clima-forecast"
+        }
+      }
+    }
+  ]
+}
